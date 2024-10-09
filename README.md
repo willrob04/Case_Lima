@@ -57,6 +57,7 @@ python app.py
 ```
 ![api](pngs/api.png)
 
+Aperte Ctrl + C quando carregar a página 
 Após acesse o link http://127.0.0.1:5000/search?keyword=Melania o qual irá substituir a keyword pelo termo desejado no artigo.
 
 ![melania](pngs/melania.png)
